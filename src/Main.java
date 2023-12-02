@@ -53,7 +53,7 @@ public class Main {
         System.out.println("Всего работников в компании" + quantityWorker + " человек");
         var workers = 94;
         var worktime1Hours = (totalHours / workers);
-        System.out.println("Если в компании работает " + workers + " человек, то всего" + worktime1Hours + " часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает " + workers + " человек, то всего" + worktime1Hours + " часов работы может быть поделено между сотрудниками !!!");
 
 
 
